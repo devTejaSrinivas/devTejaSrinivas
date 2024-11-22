@@ -16,7 +16,21 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am currently working on an Mental Health prediction app called "Kalrav"<br>I am learning full stack web development , AI and ML <br>I am a CS major from India<br>I have a great sense of humor<br><br>#Coder
+# Hi there, I'm TEJA! 👋
+
+## About Me
+I'm a passionate Computer Science major from India with a keen interest in Full Stack Web Development, Artificial Intelligence, and Machine Learning. Currently, I'm working on an exciting Mental Health prediction app called **Kalrav**. I believe in the power of technology to make a positive impact on people's lives.
+
+Aside from coding, I have a great sense of humor and enjoy making people laugh. Life's too short to be serious all the time!
+
+## 🌱 Current Learning Journey
+- Full Stack Web Development
+- Artificial Intelligence
+- Machine Learning
+
+## ⚡ Fun Fact
+I have a knack for cracking jokes and making people laugh! Feel free to reach out if you need a good laugh or want to discuss tech and innovations.
+
 
 
 ## 🌐 Socials:
