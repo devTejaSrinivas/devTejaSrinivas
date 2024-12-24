@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 # 💫 About Me:
 # Hi there, I'm TEJA! 👋
 
+- 👯 I’m looking to collaborate on Web Development Projects
+- 🤔 I’m looking for help with Open Source Contribution
+- 💬 Ask me about Data Structures and Algorithms
+- 📫 How to reach me: tejasrinivassjps@gmail.com
+
+
 ## About Me
 I'm a passionate Computer Science major from India with a keen interest in Full Stack Web Development, Artificial Intelligence, and Machine Learning. Currently, I'm working on an exciting Mental Health prediction app called **Kalrav**. I believe in the power of technology to make a positive impact on people's lives.
 
@@ -54,5 +60,3 @@ I have a knack for cracking jokes and making people laugh! Feel free to reach ou
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devTejaSrinivas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
